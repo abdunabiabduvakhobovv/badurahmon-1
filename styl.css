@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+
+.aqua-bg{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 25px;
+    border: solid red 2px;
+}
+
+.red-bg{
+    color: red;
+}
+
+.green-bg{
+    color: green;
+}
+
+.yellow-bg{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+.bg-1711{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+.aquamarine-bg{
+    background-color: aqua;
+}
+
+.body{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+.th-bg{
+    background-color: green;
+    border: wheat;
+    color: white;
+}
+
+.blue-bg{
+    background-color: blue;
+    border: solid wheat;
+    color: white;
+}
+
+
+.abd{
+    background-color: red;
+    border: wheat;
+    color: white;
+}
+
+.ad{
+    background-color: black;
+    border: wheat;
+    color: white;
+}
+
+.a{
+    background-color: red;
+    border: wheat;
+    color: white;
+}
+
+
+.b{
+    background-color: black;
+    border: wheat;
+    color: white;
+}
